@@ -9,7 +9,7 @@ terraform {
 
  backend "s3" {
  #   bucket = "updaws76-remote-state"
-  #  key    = "multienv"
+  #  key    = "foreach"
    # region = "us-east-1"
     #dynamodb_table = "up-locking"
  }
