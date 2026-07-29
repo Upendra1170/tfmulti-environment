@@ -1,4 +1,4 @@
-data "aws_ami" "Redhat-9-DevOps-Practice" {
+data "aws_ami" "Redhat-9" {
     owners = ["973714476881"]
     most_recent = true
 
